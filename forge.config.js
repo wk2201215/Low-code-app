@@ -17,6 +17,7 @@ module.exports = {
     }
   ],
   packagerConfig: {
+    icon: '/images/beer.jpg',
     asar: true,
   },
   rebuildConfig: {},
